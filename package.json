@@ -18,6 +18,7 @@
   },
   "devDependencies": {
     "@types/node": "^20",
+    "@rocketseat/eslint-config": "^2.1.0",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10",
