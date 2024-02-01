@@ -13,6 +13,29 @@ const config: Config = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      colors: {
+        customColor: '#102129',
+        customColorCircle: '#703619',
+        customColorGreen: '#69E6A6',
+        customColorCard: '#3b4950',
+        customColorRed: '#FC5B00',
+        customColorYellow: '#ECAA00',
+        customColorDarkGreen: '#009D10',
+        customColorBlue: '#0DBBFC',
+        customColorWaterBlue: '#8FB6D5',
+        customColorGray: '#95ABBC',
+        CustomColorOrange: '#FF5500',
+      },
+      fontFamily: {
+        sans: ['Open Sans', 'sans-serif'],
+        roboto: ['Roboto', 'sans-serif'],
+      },
+      width: {
+        '1293': '1493px',
+      },
+      height: {
+        '1293': '1493px',
+      },
     },
   },
   plugins: [],
